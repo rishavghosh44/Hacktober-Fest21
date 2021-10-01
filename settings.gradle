@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "Receive the Response"
+rootProject.name = "Calculator"
